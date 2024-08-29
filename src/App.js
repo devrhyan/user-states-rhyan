@@ -25,7 +25,7 @@ function App() {
     datasets: [
       {
         data: [concluida, pendente],
-        backgroundColor: ['green', 'red'], // Preto e Verde
+        backgroundColor: ['green', 'red'], 
       },
     ],
   };
